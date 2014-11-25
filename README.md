@@ -14,6 +14,8 @@ On the simulator, you can try it in the Photos app or any other app that takes a
 For the data to be sent on the local server, you need to run the api.rb file in the command line.
 Go to the folder that contains the file in terminal.
 Type ./api.rb and it should start the local server. After this it will record all the keystrokes you make.
+Can refer to this link. I had used this for a simple local server on Mac.
+http://jamesonquave.com/blog/making-a-post-request-in-swift/#jumpSwift
 
 
 The FitStore code is a sample code of using the HealthKit for iOS 8. Moreover, it copies the all the HealthKit data 
